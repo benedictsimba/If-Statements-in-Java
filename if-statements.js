@@ -7,7 +7,7 @@
     <script>
         <!--
         var car = "has four wheels"
-        var Age=28;
+        var Age=18;
         if (car == "has four wheels") {
             document.write("Definately a Car")
             document.write("<br/>")
